@@ -1,0 +1,18 @@
+{
+  "namespace": "peopleCentric",
+  "permissions": ["folders", "messages"],
+  "functions": [
+    {
+      "name": "createPeopleCentricFolder",
+      "type": "function",
+      "async": true,
+      "parameters": []
+    },
+    {
+      "name": "getMessagesGroupedByContact",
+      "type": "function",
+      "async": true,
+      "parameters": []
+    }
+  ]
+}
